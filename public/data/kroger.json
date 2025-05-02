@@ -1,0 +1,233 @@
+[
+    {
+      "name": "Kroger Whole Vitamin D Milk",
+      "price": 3.19,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0001111041700",
+      "category": "dairy",
+      "brand": "Kroger",
+      "weight": "1 Gallon",
+      "description": "Creamy whole milk with added vitamin D.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Fresh Large Eggs",
+      "price": 2.89,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0001111003948",
+      "category": "dairy",
+      "brand": "Kroger",
+      "weight": "12 count",
+      "description": "Grade A large eggs from cage-free hens.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger White Bread",
+      "price": 1.99,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0001111014385",
+      "category": "bakery",
+      "brand": "Kroger",
+      "weight": "20 oz",
+      "description": "Soft and fluffy white bread.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Fresh Strawberries",
+      "price": 3.99,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0003338320027",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "16 oz",
+      "description": "Fresh and juicy strawberries.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Fresh Chicken Breast",
+      "price": 4.99,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0025313700000",
+      "category": "meat",
+      "brand": "Kroger",
+      "weight": "1 lb",
+      "description": "Boneless, skinless chicken breast.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Spinach",
+      "price": 2.49,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0001111091128",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "5 oz",
+      "description": "Fresh organic baby spinach.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Bella Mushrooms",
+      "price": 2.99,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0001111091493",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "8 oz",
+      "description": "Fresh organic baby bella mushrooms.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Cucumbers",
+      "price": 1.99,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0000000094062",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "2 count",
+      "description": "Fresh organic baby cucumbers.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Bell Peppers",
+      "price": 2.49,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0001111090020",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "3 count",
+      "description": "Fresh organic baby bell peppers.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Zucchini",
+      "price": 2.49,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0000000004067",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "8 oz",
+      "description": "Fresh organic baby zucchini.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Broccoli",
+      "price": 2.99,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0001111004490",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "8 oz",
+      "description": "Fresh organic baby broccoli.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Carrots",
+      "price": 1.99,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0001111091657",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "16 oz",
+      "description": "Fresh organic baby carrots.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Corn",
+      "price": 2.49,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0001111003238",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "8 oz",
+      "description": "Fresh organic baby corn.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Eggplant",
+      "price": 2.99,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0000000004081",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "8 oz",
+      "description": "Fresh organic baby eggplant.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Peas",
+      "price": 2.49,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0001111081209",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "8 oz",
+      "description": "Fresh organic baby peas.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Squash",
+      "price": 2.49,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0000000004067",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "8 oz",
+      "description": "Fresh organic baby squash.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Sweet Potatoes",
+      "price": 2.99,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0001111079542",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "8 oz",
+      "description": "Fresh organic baby sweet potatoes.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Tomatoes",
+      "price": 2.99,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0000000094799",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "8 oz",
+      "description": "Fresh organic baby tomatoes.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Baby Zucchini",
+      "price": 2.49,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0000000004756",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "8 oz",
+      "description": "Fresh organic baby zucchini.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Bananas",
+      "price": 0.49,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0000000004011",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "1 lb",
+      "description": "Fresh organic bananas.",
+      "storeLocation": "Huntsville, TX"
+    },
+    {
+      "name": "Kroger Organic Avocado",
+      "price": 1.50,
+      "store": "Kroger",
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0000000004046",
+      "category": "produce",
+      "brand": "Kroger",
+      "weight": "each",
+      "description": "Fresh organic avocado.",
+      "storeLocation": "Huntsville, TX"
+    }
+  ]

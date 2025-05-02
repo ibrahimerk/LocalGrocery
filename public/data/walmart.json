@@ -1,0 +1,102 @@
+[
+    {
+      "name": "great value whole milk",
+      "price": 3.28,
+      "originalPrice": 3.49,
+      "store": "Walmart",
+      "imageUrl": "https://i5.walmartimages.com/seo/Great-Value-2-Reduced-Fat-Milk-Gallon-Refrigerated_22a6459a-13b6-4057-aeae-45e62c69e8f8.47f793426ff66fa6432c948d836704f0.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "category": "dairy",
+      "brand": "Great Value",
+      "weight": "1 Gallon",
+      "storeLocation": "Huntsville, TX",
+      "lastUpdated": "2023-05-15T12:00:00Z"
+    },
+    {
+      "name": "great value white bread",
+      "price": 1.28,
+      "store": "Walmart",
+      "imageUrl": "https://i5.walmartimages.com/seo/Great-Value-White-Round-Top-Bread-Loaf-20-oz_2e2a0e48-fecf-4b00-9ce4-64486788a22e.76317f2bfb5207c437cb7ccd4115589d.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "category": "bakery",
+      "brand": "Great Value",
+      "weight": "20 oz",
+      "storeLocation": "Huntsville, TX",
+      "lastUpdated": "2023-05-15T12:00:00Z"
+    },
+    {
+      "name": "great value large eggs",
+      "price": 2.98,
+      "store": "Walmart",
+      "imageUrl": "https://i5.walmartimages.com/seo/Great-Value-Large-White-Eggs-12-Count_b6760ce4-ef2b-4ee7-9c54-1e573897ad73.0e934a9843adc83711b5c933c7777f52.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "category": "dairy",
+      "brand": "Great Value",
+      "weight": "12 count",
+      "storeLocation": "Huntsville, TX",
+      "lastUpdated": "2023-05-15T12:00:00Z"
+    },
+    {
+      "name": "great value peanut butter",
+      "price": 2.48,
+      "store": "Walmart",
+      "imageUrl": "https://i5.walmartimages.com/seo/Great-Value-Creamy-Peanut-Butter-16-oz_1dd3ca2b-8812-41f7-a55f-437a0d8182f4.616efa97ef06eb0c1bfbe83ad49ebb77.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "category": "snacks",
+        "brand": "Great Value",
+        "weight": "28 oz",
+        "storeLocation": "Huntsville, TX",
+        "lastUpdated": "2023-05-15T12:00:00Z"
+    },
+    {
+      "name": "great value frozen broccoli",
+      "price": 1.00,
+      "store": "Walmart",
+      "imageUrl": "https://i5.walmartimages.com/seo/Great-Value-Frozen-Broccoli-Florets-12-oz-Steamable-Bag_c6e47501-d339-4baa-ac33-94518223ff3b.e6736cdc6c8437702d6a2f6db2d243c0.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "category": "frozen vegetables",
+        "brand": "Great Value",
+        "weight": "16 oz",
+        "storeLocation": "Huntsville, TX",
+        "lastUpdated": "2023-05-15T12:00:00Z"
+    },
+    {
+      "name": "great value chicken breast",
+      "price": 4.98,
+      "store": "Walmart",
+      "imageUrl": "https://i5.walmartimages.com/seo/Boneless-Skinless-Chicken-Breasts-4-7-6-1-lb-Tray_4693e429-b926-4913-984c-dd29d4bdd586.780145c264e407b17e86cd4a7106731f.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+        "category": "meat",
+            "brand": "Great Value",
+            "weight": "1 lb",
+            "storeLocation": "Huntsville, TX",
+            "lastUpdated": "2023-05-15T12:00:00Z"
+    },
+    {
+      "name": "great value frozen pizza",
+      "price": 5.00,
+      "store": "Walmart",
+      "imageUrl": "https://i5.walmartimages.com/asr/9a9f9f5e-3f1f-4e3b-9b9f-9f9f9f9f9f9f.9f9f9f9f9f9f9f9f9f9f9f9f9f9f9f.jpeg",
+        "category": "frozen meals",
+            "brand": "Great Value",
+            "weight": "28 oz",
+            "storeLocation": "Huntsville, TX",
+            "lastUpdated": "2023-05-15T12:00:00Z"
+    },
+    {
+      "name": "Red Baron frozen strawberries",
+      "price": 3.00,
+      "store": "Walmart",
+      "imageUrl": "https://i5.walmartimages.com/seo/Red-Baron-Four-Cheese-Classic-Crust-Frozen-Pizza-21-06-oz_30c537b4-07e2-4750-8082-d23af5d20160.f3a82854d3bccce471e72bf74dc12192.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+        "category": "frozen fruits",
+            "brand": "Red Baron",
+            "weight": "16 oz",
+            "storeLocation": "Huntsville, TX",
+            "lastUpdated": "2023-05-15T12:00:00Z"
+    },
+    {
+      "name": "great value frozen corn",
+      "price": 1.00,
+      "store": "Walmart",
+      "imageUrl": "https://i5.walmartimages.com/seo/Great-Value-Frozen-Whole-Kernel-Corn-12-oz-Steamable-Bag_e50c226d-10d0-464a-a285-0ca834de6a24.4f2dc21abb4ec03a196e9ac12590d029.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+        "category": "frozen vegetables",
+            "brand": "Great Value",
+            "weight": "16 oz",
+            "storeLocation": "Huntsville, TX",
+            "lastUpdated": "2023-05-15T12:00:00Z"
+    }
+  ]

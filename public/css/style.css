@@ -1,0 +1,45 @@
+/* Ana Stiller */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #28a745;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* Ürün Kartları */
+.product-card {
+    transition: all 0.3s ease;
+    border-radius: 10px;
+    overflow: hidden;
+    background: white;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px rgba(0,0,0,0.1);
+}
+
+/* Loading Animasyonu */
+.loading-spinner {
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Responsive Düzen */
+@media (max-width: 768px) {
+    .search-container {
+        flex-direction: column;
+    }
+    .filter-selects {
+        flex-direction: column;
+    }
+}

@@ -4,7 +4,6 @@ async function searchProducts() {
     const store      = document.getElementById('storeFilter').value;
     const sort       = document.getElementById('sortFilter').value;
   
-    // Show loading spinner
     document.getElementById('resultsContainer').innerHTML = `
       <div class="col-span-3 flex flex-col items-center py-12">
         <i class="fas fa-spinner fa-spin text-4xl text-green-500 mb-4"></i>
@@ -17,15 +16,13 @@ async function searchProducts() {
       const res = await fetch(url);
       const { results } = await res.json();
   
-      // Compute lowest price per product name
       const lowestPrices = {};
       results.forEach(p => {
         if (!lowestPrices[p.name] || p.price < lowestPrices[p.name]) {
           lowestPrices[p.name] = p.price;
         }
       });
-  
-      // Apply search-term filter client-side
+
       const filtered = searchTerm
         ? results.filter(p => p.name.toLowerCase().includes(searchTerm))
         : results;
@@ -69,7 +66,7 @@ async function searchProducts() {
             </span>
             ${isCheapest ? `
               <span class="absolute top-2 left-2 text-xs text-white px-2 py-1 rounded-full cheapest-tag">
-                <i class="fas fa-tag mr-1"></i>En Ucuz
+                <i class="fas fa-tag mr-1"></i>Cheapest Price
               </span>` : ''}
           </div>
           <div class="p-6">
@@ -93,6 +90,5 @@ async function searchProducts() {
     container.innerHTML = html;
   }
   
-  // Initial load
   window.addEventListener('DOMContentLoaded', searchProducts);
   
